@@ -8,7 +8,7 @@
 
 <h3 align="center">OG Studio</h3>
 
-<p align="center">A design studio where we floats easy, but design bold.</p>
+<p align="center">A design studio where we float easy, but design bold.</p>
 
 <p align="center">We're on a mission to make design, marketing & illustration more accesible for our partners.</p>
 
