@@ -11,9 +11,3 @@
 <p align="center">A design studio where we float easy, but design bold.</p>
 
 <p align="center">We're on a mission to make design, marketing & illustration more accesible for our partners.</p>
-
-<div align="center">
-
-[Join our community](https://example.com)
-
-</div> 
